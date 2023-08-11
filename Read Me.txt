@@ -2,5 +2,7 @@ Retail Dataset Analysis using Tableau
 
 Link:
 
+https://github.com/kashifrasool/Retail-Dataset-Analysis-using-Tableau/blob/main/Walmart%20Retail%20Data%20Analysis%20Dashboard.png
+
 
 Kashif Rasool
