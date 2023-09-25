@@ -1,6 +1,6 @@
-Retail Dataset Analysis using Tableau
+Walmart Retail Dataset Analysis using Tableau
 
-Link:
+Link to Project files:
 
 https://github.com/kashifrasool/Retail-Dataset-Analysis-using-Tableau/blob/main/Walmart%20Retail%20Data%20Analysis%20Dashboard.png
 
